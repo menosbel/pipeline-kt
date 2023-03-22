@@ -1,0 +1,5 @@
+- should print VALID if pipeline is valid
+- should print INVALID if pipeline has no name
+- should print INVALID if pipeline has no jobs
+- should print INVALID if pipeline has a dependency cycle
+- should print INVALID if pipeline has jobs that depend on itself

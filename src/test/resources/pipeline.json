@@ -1,0 +1,4 @@
+{
+  "name": "First Pipeline", "jobs": [ {
+  "name": "A", "commands": ["echo hello"] } ]
+}
